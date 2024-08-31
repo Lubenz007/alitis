@@ -1,6 +1,6 @@
-baseURL: https://alit.is/
+baseURL: https://www.alit.is/
 languageCode: en-us
-title: alit.is
+title: www.alit.is
 
 module:
   imports:
