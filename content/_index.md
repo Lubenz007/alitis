@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'What we do'
 date = 2024-08-31T22:29:39Z
 draft = false
 +++
@@ -18,12 +18,11 @@ Our primary service is to display these reports.
 
 With our service, you receive critical insights into your cloud environments, backed by a commitment to quality, collaboration, and security, all while benefiting from automated, streamlined deployment processes.
 
-Users
-    Groups
-    Groups Members
-    pasword Changes
-    Login Activities
-License
-    License Users
-    License Changes
+> {{< callout type="info" >}}
+  What reports include.
+{{< /callout >}}
+
+{{< cards >}}
+  {{< card link="/" title="" image="/images/O365.png" subtitle="" >}}
+  {{< /cards >}}
     
