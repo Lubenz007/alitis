@@ -1,7 +1,7 @@
 +++
 title = ''
 date = 2024-08-31T22:29:39Z
-draft = true
+draft = false
 +++
 
 We specialize in generating comprehensive Azure and Microsoft 365 reports tailored to meet our customers' unique needs. Using our proprietary code, we create insightful reports that offer valuable visibility into your cloud and collaboration environments.
@@ -24,6 +24,6 @@ Users
     pasword Changes
     Login Activities
 License
-    License Usesr
+    License Users
     License Changes
     
