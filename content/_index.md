@@ -18,8 +18,8 @@ Our primary service is to display these reports.
 
 With our service, you receive critical insights into your cloud environments, backed by a commitment to quality, collaboration, and security, all while benefiting from automated, streamlined deployment processes.
 
-> {{< callout type="info" >}}
-  What reports include.
+> {{< callout >}}
+  What reports include, more detail info in documentation.
 {{< /callout >}}
 
 {{< cards >}}
