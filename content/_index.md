@@ -17,3 +17,13 @@ Both the Teams app and Hugo site deployments are managed through continuous deli
 Our primary service is to display these reports.
 
 With our service, you receive critical insights into your cloud environments, backed by a commitment to quality, collaboration, and security, all while benefiting from automated, streamlined deployment processes.
+
+Users
+    Groups
+    Groups Members
+    pasword Changes
+    Login Activities
+License
+    License Usesr
+    License Changes
+    
