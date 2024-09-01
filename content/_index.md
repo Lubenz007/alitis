@@ -23,6 +23,6 @@ With our service, you receive critical insights into your cloud environments, ba
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="/docs/" title="" image="O365.png" subtitle="Reports Documentation" >}}
+  {{< card link="/docs/" title="" image="https://alit.is/O365.PNG" subtitle="Reports Documentation" >}}
 {{< /cards >}}
     
