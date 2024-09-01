@@ -23,6 +23,6 @@ With our service, you receive critical insights into your cloud environments, ba
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="/" title="" image="/images/O365.png" subtitle="" >}}
+  {{< card link="/docs/" title="" image="/images/O365.png" subtitle="" >}}
   {{< /cards >}}
     
