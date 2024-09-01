@@ -26,15 +26,3 @@ With our service, you receive critical insights into your cloud environments, ba
   {{< card link="/docs/" title="" image="https://alit.is/O365.PNG" subtitle="Reports Documentation" >}}
   {{< card link="/docs/" title="" image="https://alit.is/azure.PNG" subtitle="Azure Documentation" >}}
 {{< /cards >}}
-    
-- Azure
-    - Billing
-        - Budget
-        - Warnings
-    - Arc
-        - Updates
-    - Inventory
-        - What is used
-        - What is not used
-    - Advisior
-        - What can be done better
