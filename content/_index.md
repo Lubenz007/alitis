@@ -1,25 +1,26 @@
 +++
-title = 'What we do'
+title = 'Hvað gerum við'
 date = 2024-08-31T22:29:39Z
 draft = false
 +++
 
-We specialize in generating comprehensive Azure and Microsoft 365 reports tailored to meet our customers' unique needs. Using our proprietary code, we create insightful reports that offer valuable visibility into your cloud and collaboration environments.
 
-We are committed to collaboration and transparency. In addition to our own code, we integrate high-quality scripts and tools from other respected developers, always giving full credit to these contributors. To further empower our customers, we provide full access to all our code, allowing you to review, modify, and build upon it as needed.
+### AI hjálpaði til við þessa útskýringu.
+Við sérhæfum okkur í að búa til alhliða skýrslur fyrir Azure og Microsoft 365, sniðnar að sérstökum þörfum viðskiptavina okkar. Með okkar eigin kóða búum við til innsæjar skýrslur sem veita verðmæta yfirsýn yfir skýja- og samvinnuumhverfi þitt.
 
-Every report we produce undergoes thorough testing to ensure accuracy and reliability. Once validated, we deploy these reports into your environment, where they can be accessed via a custom Teams app or a Hugo site designed for Teams.
+Við leggjum áherslu á samstarf og gegnsæi. Auk okkar eigin kóða, samþættum við hágæða skriftur og verkfæri frá öðrum virðulegum þróunaraðilum og gefum þeim alltaf fullt kredit. Til að styrkja viðskiptavini okkar enn frekar, veitum við fullan aðgang að öllum okkar kóða, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
 
-For the Teams app, the data is securely stored in your private SharePoint environment, providing a safe and accessible location for your sensitive information. For reports delivered through Hugo, the data is stored on a static site, ensuring fast and efficient content delivery.
+Allar skýrslur sem við framleiðum fara í gegnum ítarlega prófun til að tryggja nákvæmni og áreiðanleika. Þegar þær hafa verið staðfestar, dreifum við þessum skýrslum í umhverfið þitt, þar sem hægt er að nálgast þær í gegnum sérsniðið Teams app eða Hugo síðu.
 
-Both the Teams app and Hugo site deployments are managed through continuous delivery (CD) pipelines, ensuring automated, smooth, and reliable processing and updates.
+Fyrir Teams appið er gögn tryggilega geymd í þínu einka SharePoint umhverfi, sem tryggir örugga og aðgengilega staðsetningu fyrir viðkvæmar upplýsingar þínar. Fyrir skýrslur sem afhentar eru í gegnum Hugo eru gögnin geymd á kyrrstöðum síðum, sem tryggir hraða og skilvirka afhendingu efnis.
 
-Our primary service is to display these reports.
+Bæði dreifingar á Teams appinu og Hugo síðunni eru stjórnað í gegnum samfelldar dreifingarrásir (CD), sem tryggja sjálfvirka, áreiðanlega og hnökralausa vinnslu og uppfærslur.
 
-With our service, you receive critical insights into your cloud environments, backed by a commitment to quality, collaboration, and security, all while benefiting from automated, streamlined deployment processes.
+
+Með þjónustu okkar færðu mikilvægar innsýnir í skýjaumhverfi þitt, stutt af skuldbindingu okkar til gæða, samstarfs og öryggis, allt á meðan þú nýtur góðs af sjálfvirkum, straumlínulagaðum dreifingarferlum.
 
 > {{< callout >}}
-  What reports include, more detail info in documentation.
+  Nánari útskýringar í leiðbeiningum.
 {{< /callout >}}
 
 {{< cards >}}
