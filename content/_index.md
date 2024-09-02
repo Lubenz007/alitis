@@ -6,7 +6,7 @@ draft = false
 
 
 ### AI hjálpaði til við þessa útskýringu.
-Við sérhæfum okkur í að búa til alhliða skýrslur fyrir Azure og Microsoft 365, sniðnar að sérstökum þörfum viðskiptavina okkar. Með okkar eigin kóða búum við til innsæjar skýrslur sem veita verðmæta yfirsýn yfir skýja- og samvinnuumhverfi þitt.
+Við sérhæfum okkur í að búa til alhliða skýrslur fyrir Azure og Microsoft 365, sniðnar að sérstökum þörfum viðskiptavina okkar. Með okkar eigin kóða búum við til gegnsæjar skýrslur sem veita verðmæta yfirsýn yfir skýja- og samvinnu umhverfi þitt.
 
 Við leggjum áherslu á samstarf og gegnsæi. Auk okkar eigin kóða, samþættum við hágæða skriftur og verkfæri frá öðrum virðulegum þróunaraðilum og gefum þeim alltaf fullt kredit. Til að styrkja viðskiptavini okkar enn frekar, veitum við fullan aðgang að öllum okkar kóða, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
 
