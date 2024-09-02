@@ -12,19 +12,19 @@ Við leggjum áherslu á samstarf og gegnsæi. Auk okkar eigin kóða, samþætt
 
 Allar skýrslur sem við framleiðum fara í gegnum ítarlega prófun til að tryggja nákvæmni og áreiðanleika. Þegar þær hafa verið staðfestar, dreifum við þessum skýrslum í umhverfið þitt, þar sem hægt er að nálgast þær í gegnum sérsniðið Teams app eða Hugo síðu.
 
-Fyrir Teams appið er gögn tryggilega geymd í þínu einka SharePoint umhverfi, sem tryggir örugga og aðgengilega staðsetningu fyrir viðkvæmar upplýsingar þínar. Fyrir skýrslur sem afhentar eru í gegnum Hugo eru gögnin geymd á kyrrstöðum síðum, sem tryggir hraða og skilvirka afhendingu efnis.
+Fyrir Teams appið er gögn tryggilega geymd í þínu online SharePoint umhverfi, sem tryggir örugga og aðgengilega staðsetningu fyrir viðkvæmar upplýsingar þínar. Fyrir skýrslur sem afhentar eru í gegnum Hugo eru gögnin geymd á kyrrstöðum síðum, sem tryggir hraða og skilvirka afhendingu efnis.
 
-Bæði dreifingar á Teams appinu og Hugo síðunni eru stjórnað í gegnum samfelldar dreifingarrásir (CD), sem tryggja sjálfvirka, áreiðanlega og hnökralausa vinnslu og uppfærslur.
+Bæði dreifingar á Teams appinu og Hugo síðunni eru stjórnað í gegnum pipelines (CD), sem tryggja sjálfvirka, áreiðanlega og hnökralausa vinnslu og uppfærslur.
 
+Með þjónustu okkar færðu mikilvægar innsýnir í skýjaumhverfi þitt.
 
-Með þjónustu okkar færðu mikilvægar innsýnir í skýjaumhverfi þitt, stutt af skuldbindingu okkar til gæða, samstarfs og öryggis, allt á meðan þú nýtur góðs af sjálfvirkum, straumlínulagaðum dreifingarferlum.
 
 > {{< callout >}}
   Nánari útskýringar í leiðbeiningum.
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="/docs/" title="" image="https://alit.is/O365.PNG" subtitle="Reports Documentation" >}}
+  {{< card link="/docs/O365/" title="" image="https://alit.is/O365.PNG" subtitle="O365 Documentation" >}}
   {{< card link="/docs/" title="" image="https://alit.is/azure.PNG" subtitle="Azure Documentation" >}}
   {{< card link="/docs/" title="" image="https://alit.is/license.PNG" subtitle="Examble" >}}
 {{< /cards >}}
