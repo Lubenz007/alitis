@@ -15,5 +15,73 @@
       
     
     
+    <item>
+      <title>O365 Reports</title>
+      <link>http://localhost:1313/docs/o365/</link>
+      <pubDate>Mon, 02 Sep 2024 20:20:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/o365/</guid>
+      <description>
+        
+        
+        &lt;ol&gt;
+&lt;li&gt;Audit External User Activity&lt;/li&gt;
+&lt;li&gt;Audit File Deletion&lt;/li&gt;
+&lt;li&gt;Audit Group Membership Changes&lt;/li&gt;
+&lt;li&gt;Audit M365 Admins Activities&lt;/li&gt;
+&lt;li&gt;Audit M365 User Creations&lt;/li&gt;
+&lt;li&gt;Audit Office 365 External Sharing Activity&lt;/li&gt;
+&lt;li&gt;Audit Office 365 User Activity Report&lt;/li&gt;
+&lt;li&gt;Audit Recently Created M365 Users&lt;/li&gt;
+&lt;li&gt;Azure AD Devices Report&lt;/li&gt;
+&lt;li&gt;Check Per-user MFA Status using MS Graph&lt;/li&gt;
+&lt;li&gt;Export CA policies&lt;/li&gt;
+&lt;li&gt;Export Entra Sign-in Logs&lt;/li&gt;
+&lt;li&gt;Export Mailbox Hold Details&lt;/li&gt;
+&lt;li&gt;Export Mailbox Usage &amp;amp; Quota Report&lt;/li&gt;
+&lt;li&gt;Export MFA Status Report using MS Graph&lt;/li&gt;
+&lt;li&gt;Export Office 365 Groups a User is Member Of&lt;/li&gt;
+&lt;li&gt;File Version History Report&lt;/li&gt;
+&lt;li&gt;Find M365 User License Assignment Path&lt;/li&gt;
+&lt;li&gt;Get DLs a User is Member Of&lt;/li&gt;
+&lt;li&gt;Get M365 Inactive User Report&lt;/li&gt;
+&lt;li&gt;Get Microsoft Users Direct Membership (Groups, Directory Roles, and AUs)&lt;/li&gt;
+&lt;li&gt;Get Nested Distribution List Membership Report&lt;/li&gt;
+&lt;li&gt;Get Office 365 Groups Storage Size Report&lt;/li&gt;
+&lt;li&gt;Get SSPR Status Report&lt;/li&gt;
+&lt;li&gt;Guest User Report&lt;/li&gt;
+&lt;li&gt;Guest Users Last Logon Time Report&lt;/li&gt;
+&lt;li&gt;Last Successful Sign-in Date Report for M365 Users&lt;/li&gt;
+&lt;li&gt;LicenseExpiryDateReport&lt;/li&gt;
+&lt;li&gt;List M365 Users Registered MFA Authentication Methods&lt;/li&gt;
+&lt;li&gt;List Unlicensed Users in M365&lt;/li&gt;
+&lt;li&gt;M365 License Cost &amp;amp; Usage Report&lt;/li&gt;
+&lt;li&gt;M365 Users Last Successful Signin Date Report&lt;/li&gt;
+&lt;li&gt;M365 Users&amp;rsquo; Group-based License Assignment Report&lt;/li&gt;
+&lt;li&gt;Microsoft 365 Group Report&lt;/li&gt;
+&lt;li&gt;Office 365 Admin Report&lt;/li&gt;
+&lt;li&gt;Office 365 Distribution Group Members Report&lt;/li&gt;
+&lt;li&gt;Office 365 Dynamic Distribution Group Members Report&lt;/li&gt;
+&lt;li&gt;Office 365 Email Forwarding Report&lt;/li&gt;
+&lt;li&gt;Office 365 Mailbox Permissions Report&lt;/li&gt;
+&lt;li&gt;Office 365 manager report&lt;/li&gt;
+&lt;li&gt;Office 365 Non-owner Mailbox Access Report&lt;/li&gt;
+&lt;li&gt;Office 365 Password Expiry Report&lt;/li&gt;
+&lt;li&gt;Office 365 Shared Mailbox Permission Report&lt;/li&gt;
+&lt;li&gt;Office 365 User Last Activity Time Report&lt;/li&gt;
+&lt;li&gt;Office 365 User Last Logon Time Report&lt;/li&gt;
+&lt;li&gt;Office 365 User License Report&lt;/li&gt;
+&lt;li&gt;Office 365 User Logon History Report&lt;/li&gt;
+&lt;li&gt;Office 365 User MFA Status Report&lt;/li&gt;
+&lt;li&gt;Office365 License Reporting And Management&lt;/li&gt;
+&lt;li&gt;Plus Addressing Configuration&lt;/li&gt;
+&lt;li&gt;Prevent Bing Install in Chrome&lt;/li&gt;
+&lt;li&gt;Private Channel Reports in MS Teams&lt;/li&gt;
+&lt;li&gt;Track offboarded user activities&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
