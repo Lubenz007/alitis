@@ -4,7 +4,7 @@ date = 2024-08-31T22:29:39Z
 draft = false
 +++
 #
-- Veitum aðstoð við uppsetningu fríum tólum sem koma að notum við rekstur á þínu Azure M365 umhverfi. 
+- Veitum aðstoð við uppsetningu á fríum tólum sem koma að notum við rekstur á þínu Azure - M365 umhverfi. 
 - tökum að okkur að viðhalda þeim fyrir þinn Tenant.
 #
 ## Maester
