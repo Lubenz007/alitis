@@ -5,12 +5,11 @@ draft = false
 +++
 
 ### AI hjálpaði til við þessa útskýringu.
-Við sérhæfum okkur í að búa til skýrslur fyrir Azure og Microsoft 365, sniðnar að þörfum viðskiptavina okkar.
+Við sérhæfum okkur finna skýrslur fyrir Azure og Microsoft 365, sem henta þörfum viðskiptavina okkar.
 
-Við leggjum áherslu á samstarf og gegnsæi.
-Til að styrkja viðskiptavini okkar enn frekar, veitum við fullan aðgang að öllum okkar kóða sem sækja upplýsingar, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
+Veitum við fullan aðgang að öllum okkar kóða sem sækja upplýsingar, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
 
-Allar skýrslur sem við búum til fara í gegnum prófanir til að tryggja áreiðanleika. 
+Allar skýrslur sem við notum fara í gegnum prófanir til að tryggja áreiðanleika. 
 Þegar þær hafa verið staðfestar, dreifum við þeim í umhverfið þitt.
 
 Við birtum skýrslunar með Hugo og hextra theme.
@@ -21,7 +20,7 @@ Dreifingar á Hugo síðunni eru stjórnað í gegnum pipelines (CD).
 
 Allt efnið er geymt í github viðskiptavinar.
 
-Með þjónustu okkar færðu góða innsýn í skýjaumhverfi þitt.
+Með okkar þjónustu veitum við góða innsýn í skýjaumhverfi þitt.
 
 > {{< callout >}}
   Nánari útskýringar í leiðbeiningum.
