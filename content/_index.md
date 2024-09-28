@@ -19,3 +19,11 @@ draft = false
     - This module can be run as a nightly scheduled task or a DevOps component (Azure DevOps, GitHub, Jenkins) and the exported files can be version controlled in Git or SharePoint.
 
     - This will provide tenant administrators with a historical view of all the settings in the tenant including the change history over the years.
+
+## Microsoft Azure Export for Terraform
+  - [aztfexport](https://github.com/Azure/aztfexport)
+    - A tool to bring your existing Azure resources under the management of Terraform.
+
+## Azure Cost CLI
+  - [azure-cost](https://github.com/mivano/azure-cost-cli)
+    - This is a simple command line tool to get the cost of your Azure subscription. It uses the Azure Cost Management API to get the cost and output the results to the console, text, csv, markdown or JSON. E.g. so it can be used in a workflow to get the cost of your subscription and use it in subsequent steps.

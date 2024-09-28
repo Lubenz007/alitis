@@ -5,7 +5,7 @@ draft = false
 +++
 
 ### AI hjálpaði til við þessa útskýringu.
-Við sérhæfum okkur finna skýrslur fyrir Azure og Microsoft 365, sem henta þörfum viðskiptavina okkar.
+Við sérhæfum okkur í að finna skýrslur fyrir Azure og Microsoft 365, sem henta þörfum viðskiptavina okkar.
 
 Veittur er fullur aðgangur að öllum kóða sem sækja upplýsingar, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
 
