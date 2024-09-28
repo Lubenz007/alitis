@@ -7,7 +7,7 @@ draft = false
 ### AI hjálpaði til við þessa útskýringu.
 Við sérhæfum okkur finna skýrslur fyrir Azure og Microsoft 365, sem henta þörfum viðskiptavina okkar.
 
-Veitur er fullur aðgangur að öllum kóða sem sækja upplýsingar, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
+Veittur er fullur aðgangur að öllum kóða sem sækja upplýsingar, sem gerir þér kleift að skoða, breyta og byggja ofan á hann eftir þörfum.
 
 Allar skýrslur sem við notum fara í gegnum prófanir til að tryggja áreiðanleika. 
 Þegar þær hafa verið staðfestar, dreifum við þeim í umhverfið þitt.
