@@ -36,3 +36,9 @@ draft = false
 ## AdminDroid
   - [AdminDroid](https://admindroid.com/)
     - Microsoft 365 Management Made Easy with AdminDroid
+
+## FinOps hubs
+  - [FinOps hubs](https://microsoft.github.io/finops-toolkit/hubs)
+    - Kick start your FinOps efforts
+    - Automate and extend the Microsoft Cloud with starter kits, scripts, and advanced solutions to accelerate your FinOps journey.
+
