@@ -28,7 +28,11 @@ menu:
         icon: github
 
 params:
-  navbar:
+  theme:
+    # light | dark | system
+    default: dark
+    displayToggle: true
+navbar:
     displayTitle: true
     displayLogo: true
     logo:
@@ -38,8 +42,9 @@ params:
       width: 40
       height: 20
 
-params:
-  theme:
-    # light | dark | system
-    default: dark
-    displayToggle: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noclasses: false
