@@ -4,8 +4,8 @@ date = 2024-08-31T22:29:39Z
 draft = false
 +++
 #
-- Veitum aðstoð við uppsetningu á scriptum/apps sem koma að notum við rekstur á þínu Azure - M365 umhverfi. 
-- Tökum að okkur að viðhalda uppsetningu fyrir þinn Tenant
+- Aðstoð við uppsetningu á scriptum/apps sem koma að notum við rekstur á þínu Azure - M365 umhverfi. 
+
 #
 ## Maester
   - [Your Microsoft Security test automation framework!](https://maester.dev/)
