@@ -1,10 +1,10 @@
 +++
-title = 'Azure - M365 - Skýrslur/Config afritun'
+title = 'Azure - M365'
 date = 2024-08-31T22:29:39Z
 draft = false
 +++
 #
-- Aðstoð við uppsetningu á scriptum/apps sem koma að notum við rekstur á þínu Azure - M365 umhverfi. 
+- Apps/Scripts that can be used to help with Azure and M365. 
 
 #
 ## Maester

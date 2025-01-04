@@ -8,13 +8,13 @@ module:
 
 menu:
   main:
-    - name: Sýnishorn
+    - name: Demo
       pageRef: /docs
       weight: 1
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: Um
+    - name: about
       pageRef: /about
       weight: 3
     - name: Search
