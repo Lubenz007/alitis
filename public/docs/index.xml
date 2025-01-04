@@ -24,13 +24,14 @@
       <description>
         
         
-        &lt;p&gt;Demo report.&lt;/p&gt;
-&lt;iframe title=&#34;CostSummary&#34; width=&#34;1200&#34; height=&#34;850&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiZGUxMDdjNjQtZTc0MS00OWRhLTgxZjItODZmMTJhMzY1MDRiIiwidCI6IjVlZWI4NTYxLTU0OTMtNGIzOS05MDZmLTAzODM1Njg1MGFhYSIsImMiOjh9&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+        &lt;p&gt;Demo report, takes few sec to load.&lt;/p&gt;
+&lt;iframe title=&#34;CostSummary&#34; width=&#34;1200&#34; height=&#34;850&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiZDU1MjVjMGQtNzIxMi00OGUxLWE5YjQtNjBhMTEzMGQ5NDgzIiwidCI6IjVlZWI4NTYxLTU0OTMtNGIzOS05MDZmLTAzODM1Njg1MGFhYSIsImMiOjh9&amp;pageName=ReportSection85de2b23d730d521bd94&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
       </description>
     </item>
     
     <item>
-      <title>Skýrslur CSV</title>
+      <title>Reports CSV</title>
       <link>http://localhost:1313/docs/o365/</link>
       <pubDate>Mon, 02 Sep 2024 20:20:02 +0000</pubDate>
       
