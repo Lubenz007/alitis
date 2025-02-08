@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/finops/</loc>
+    <loc>http://localhost:1313/demo/finops/</loc>
     <lastmod>2024-09-02T20:20:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/maester/</loc>
+    <loc>http://localhost:1313/demo/maester/</loc>
     <lastmod>2024-09-02T20:20:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/o365/</loc>
+    <loc>http://localhost:1313/demo/o365/</loc>
     <lastmod>2024-09-02T20:20:02+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -17,7 +17,7 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-08-31T22:34:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://localhost:1313/demo/</loc>
     <lastmod>2024-08-31T22:29:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>

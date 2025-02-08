@@ -9,12 +9,12 @@ module:
 menu:
   main:
     - name: Demo
-      pageRef: /docs
+      pageRef: /demo
       weight: 1
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: about
+    - name: About
       pageRef: /about
       weight: 3
     - name: Search
