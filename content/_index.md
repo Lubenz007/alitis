@@ -4,13 +4,15 @@ date = 2024-08-31T22:29:39Z
 draft = false
 +++
 #
-- Apps/Scripts that can be used to help with Azure and M365. 
+- Links to Apps/Scripts that can be used to help with Azure and M365. 
 
 #
 ## Maester
   - [Your Microsoft Security test automation framework!](https://maester.dev/)
     - Why Maester?
-    - Maester helps you monitor your Microsoft 365 tenant by running a set of tests to ensure your configuration is in compliance with your security policies.
+      - Maester helps you monitor your Microsoft 365 tenant by running a set of tests to ensure your configuration is in compliance with your security policies.
+      ![Maester](https://maester.dev/img/home/maester-report.png)
+   
 
 ## Entra Exporter
   - [Entra Exporter](https://github.com/microsoft/EntraExporter)
@@ -32,13 +34,16 @@ draft = false
   - [Resource Inventory](https://github.com/microsoft/ARI)
     - Azure Resource inventory (ARI) is a powerful powershell module that generates an Excel report of any Azure Environment you have read access.
     - This project is intend to help Cloud Admins and anyone that might need an easy and fast way to build a full Excel Report of an Azure Environment.
+   ![Azure Resource Inventory](https://github.com/microsoft/ARI/raw/main/images/ARIv35-Overview.png)
 
 ## AdminDroid
   - [AdminDroid](https://admindroid.com/)
     - Microsoft 365 Management Made Easy with AdminDroid
+    ![AdminDroid](https://admindroid.com/images/screenshots/secuirty-mfa-dashboard.png)
 
 ## FinOps hubs
   - [FinOps hubs](https://microsoft.github.io/finops-toolkit/hubs)
     - Kick start your FinOps efforts
     - Automate and extend the Microsoft Cloud with starter kits, scripts, and advanced solutions to accelerate your FinOps journey.
+    ![FinOps Hubs](https://github.com/microsoft/finops-toolkit/assets/399533/68ed0586-0c68-4989-8d1e-65db618c4e71)
 
