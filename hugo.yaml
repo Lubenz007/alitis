@@ -14,9 +14,6 @@ menu:
     - name: Leiðbeiningar
       pageRef: /leidbeiningar
       weight: 2
-    - name: Blog
-      pageRef: /blog
-      weight: 3
     - name: About
       pageRef: /about
       weight: 4
