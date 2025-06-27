@@ -23,7 +23,7 @@ weight = 10
 ### Niðurhal
 
 Þú getur sótt allar STL skrár fyrir Plasma festinguna á GitHub síðu Autodarts:
-[**Sækja Plasma Mount skrár á GitHub**](https://github.com/autodarts/autodarts-camera/tree/main/3d-models/Plasma-Mount "Smelltu til að opna GitHub möppuna")
+[**Sækja Plasma Mount skrár á GitHub**](https://github.com/autodarts/docs/tree/main/static/3d-printing/stl "Smelltu til að opna GitHub möppuna")
 
 ### Frekari upplýsingar
 
