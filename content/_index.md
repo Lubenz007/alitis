@@ -1,21 +1,21 @@
 +++
-title = '3D Printing for Autodarts'
+title = 'Þrívíddarprentun fyrir Autodarts'
 date = 2024-08-31T22:29:39Z
 draft = false
 +++
 
-# Welcome to alit.is
+# Velkomin á alit.is
 
-This site is dedicated to 3D printing for the [autodarts.is](https://autodarts.is) project. Here you will find information, guides, and files for printing everything you need to build your own autodarts setup.
+Þessi síða er tileinkuð þrívíddarprentun fyrir [autodarts.io](https://autodarts.io) verkefnið. Hér finnur þú upplýsingar, leiðbeiningar og skrár til að prenta allt sem þú þarft til að byggja þitt eigið Autodarts kerfi.
 
-## What is Autodarts?
+## Hvað er Autodarts?
 
-Autodarts is an awesome open-source project that allows you to play darts against others online using a regular steel-dartboard. It uses cameras to automatically detect where your darts have landed.
+Autodarts er frábært opinn-hugbúnaðar verkefni sem gerir þér kleift að spila pílukast á netinu við aðra með venjulegu píluborði. Það notar myndavélar til að skynja sjálfkrafa hvar pílurnar þínar hafa lent.
 
-## What can you find here?
+## Hvað er hægt að finna hér?
 
-*   **Guides:** Step-by-step instructions on what parts to print.
-*   **STLs:** Downloadable files for your 3D printer.
-*   **Tips & Tricks:** Best practices for printing the components.
+*   **Leiðbeiningar:** Skref-fyrir-skref leiðbeiningar um hvaða hluti á að prenta.
+*   **STL skrár:** Skrár sem hægt er að hlaða niður fyrir þrívíddarprentarann þinn.
+*   **Ábendingar og brellur:** Bestu aðferðir við prentun á íhlutunum.
 
-Stay tuned for more content!
+Fylgist með fyrir meira efni!
