@@ -12,7 +12,8 @@ weight = 10
 ### PLA (Polylactic Acid)
 
 PLA er vinsælasta þrívíddarprentunarefnið af góðri ástæðu. Það er auðvelt í prentun, á viðráðanlegu verði og fæst í fjölmörgum litum.
-3dverk.is hefur mikið úrval af efni til prentunar og þá aukahluti sem vantar.
+
+[3dverk.is](https://3dverk.is) hefur mikið úrval af efni til prentunar og þá aukahluti sem vantar.
 
 *   **Kostir:**
     *   Mjög auðvelt að prenta með lágmarks vindi (e. warping).
