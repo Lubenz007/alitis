@@ -1,49 +1,21 @@
 +++
-title = 'Azure - M365'
+title = '3D Printing for Autodarts'
 date = 2024-08-31T22:29:39Z
 draft = false
 +++
-#
-- Links to Apps/Scripts that can be used to help with Azure and M365. 
 
-#
-## Maester
-  - [Your Microsoft Security test automation framework!](https://maester.dev/)
-    - Why Maester?
-      - Maester helps you monitor your Microsoft 365 tenant by running a set of tests to ensure your configuration is in compliance with your security policies.
-      ![Maester](https://maester.dev/img/home/maester-report.png)
-   
+# Welcome to alit.is
 
-## Entra Exporter
-  - [Entra Exporter](https://github.com/microsoft/EntraExporter)
-    - The Entra Exporter is a PowerShell module that allows you to export your Entra and Azure AD B2C configuration settings to local .json files.
+This site is dedicated to 3D printing for the [autodarts.is](https://autodarts.is) project. Here you will find information, guides, and files for printing everything you need to build your own autodarts setup.
 
-    - This module can be run as a nightly scheduled task or a DevOps component (Azure DevOps, GitHub, Jenkins) and the exported files can be version controlled in Git or SharePoint.
+## What is Autodarts?
 
-    - This will provide tenant administrators with a historical view of all the settings in the tenant including the change history over the years.
+Autodarts is an awesome open-source project that allows you to play darts against others online using a regular steel-dartboard. It uses cameras to automatically detect where your darts have landed.
 
-## Microsoft Azure Export for Terraform
-  - [aztfexport](https://github.com/Azure/aztfexport)
-    - A tool to bring your existing Azure resources under the management of Terraform.
+## What can you find here?
 
-## Azure Cost CLI
-  - [azure-cost](https://github.com/mivano/azure-cost-cli)
-    - This is a simple command line tool to get the cost of your Azure subscription. It uses the Azure Cost Management API to get the cost and output the results to the console, text, csv, markdown or JSON. E.g. so it can be used in a workflow to get the cost of your subscription and use it in subsequent steps.
+*   **Guides:** Step-by-step instructions on what parts to print.
+*   **STLs:** Downloadable files for your 3D printer.
+*   **Tips & Tricks:** Best practices for printing the components.
 
-## Azure Resource Inventory
-  - [Resource Inventory](https://github.com/microsoft/ARI)
-    - Azure Resource inventory (ARI) is a powerful powershell module that generates an Excel report of any Azure Environment you have read access.
-    - This project is intend to help Cloud Admins and anyone that might need an easy and fast way to build a full Excel Report of an Azure Environment.
-   ![Azure Resource Inventory](https://github.com/microsoft/ARI/raw/main/images/ARIv35-Overview.png)
-
-## AdminDroid
-  - [AdminDroid](https://admindroid.com/)
-    - Microsoft 365 Management Made Easy with AdminDroid
-    ![AdminDroid](https://admindroid.com/images/screenshots/secuirty-mfa-dashboard.png)
-
-## FinOps hubs
-  - [FinOps hubs](https://microsoft.github.io/finops-toolkit/hubs)
-    - Kick start your FinOps efforts
-    - Automate and extend the Microsoft Cloud with starter kits, scripts, and advanced solutions to accelerate your FinOps journey.
-    ![FinOps Hubs](https://github.com/microsoft/finops-toolkit/assets/399533/68ed0586-0c68-4989-8d1e-65db618c4e71)
-
+Stay tuned for more content!
