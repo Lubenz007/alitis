@@ -35,15 +35,15 @@ params:
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: full
-navbar:
-    displayTitle: true
-    displayLogo: true
-    logo:
-      path: images/BensiLogo.png
-      dark: images/BensiLogo.png
-      link: /
-      width: 40
-      height: 20
+  navbar:
+      displayTitle: true
+      displayLogo: true
+      logo:
+        path: images/BensiLogo.png
+        dark: images/BensiLogo.png
+        link: /
+        width: 40
+        height: 20
 
 markup:
   goldmark:
