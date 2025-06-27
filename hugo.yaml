@@ -8,21 +8,24 @@ module:
 
 menu:
   main:
-    - name: Myndir
-      pageRef: /Myndir
+    - name: STL Skrár
+      pageRef: /stl-skrar
       weight: 1
+    - name: Leiðbeiningar
+      pageRef: /leidbeiningar
+      weight: 2
     - name: Blog
       pageRef: /blog
-      weight: 2
+      weight: 3
     - name: About
       pageRef: /about
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/Lubenz007"
       params:
         icon: github
