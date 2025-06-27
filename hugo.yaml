@@ -14,8 +14,8 @@ menu:
     - name: Leiðbeiningar
       pageRef: /leidbeiningar
       weight: 2
-    - name: About
-      pageRef: /about
+    - name: Um mig
+      pageRef: /um
       weight: 4
     - name: Search
       weight: 5
@@ -43,7 +43,7 @@ params:
         dark: images/BensiLogo.png
         link: /
         width: 40
-        height: 20
+      height: 40
 
 markup:
   goldmark:

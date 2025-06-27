@@ -1,0 +1,4 @@
+/* Make the navbar logo round */
+.navbar-brand .logo {
+  border-radius: 50%;
+}
