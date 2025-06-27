@@ -8,8 +8,8 @@ module:
 
 menu:
   main:
-    - name: Demo
-      pageRef: /demo
+    - name: Myndir
+      pageRef: /Myndir
       weight: 1
     - name: Blog
       pageRef: /blog
