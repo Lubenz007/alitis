@@ -10,7 +10,7 @@ draft = false
 
 ## Hvað er Autodarts?
 
-Autodarts er frábært opinn-hugbúnaðar verkefni sem gerir þér kleift að spila pílukast á netinu við aðra með venjulegu píluborði. Það notar myndavélar til að skynja sjálfkrafa hvar pílurnar þínar hafa lent.
+Autodarts er frábær frír hugbúnaðar sem gerir þér kleift að spila pílukast á netinu við aðra. Það notar myndavélar til að skynja sjálfkrafa hvar pílurnar þínar hafa lent.
 
 ## Hvað er hægt að finna hér?
 
