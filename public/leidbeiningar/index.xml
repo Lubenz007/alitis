@@ -1,0 +1,78 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>www.alit.is – Prentunarleiðbeiningar</title>
+    <link>http://localhost:1313/leidbeiningar/</link>
+    <description>Recent content in Prentunarleiðbeiningar on www.alit.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2024 15:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/leidbeiningar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Að velja rétta prentunarefnið</title>
+      <link>http://localhost:1313/leidbeiningar/velja-prentunarefni/</link>
+      <pubDate>Sun, 01 Sep 2024 15:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/leidbeiningar/velja-prentunarefni/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Að velja rétta prentunarefnið fyrir Autodarts íhluti&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;að-velja-rétta-prentunarefnið-fyrir-autodarts-íhluti&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a%c3%b0-velja-r%c3%a9tta-prentunarefni%c3%b0-fyrir-autodarts-%c3%adhluti&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Þegar þú prentar íhluti fyrir Autodarts kerfið þitt er val á prentunarefni mikilvægt til að tryggja endingu og prentgæði. Tvö algengustu og ráðlögðu efnin eru &lt;strong&gt;PLA&lt;/strong&gt; og &lt;strong&gt;PETG&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;PLA (Polylactic Acid)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pla-polylactic-acid&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pla-polylactic-acid&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;PLA er vinsælasta þrívíddarprentunarefnið af góðri ástæðu. Það er auðvelt í prentun, á viðráðanlegu verði og fæst í fjölmörgum litum.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://3dverk.is&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3dverk.is&lt;/a&gt; hefur mikið úrval af efni til prentunar og þá aukahluti sem vantar.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kostir:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mjög auðvelt að prenta með lágmarks vindi (e. warping).&lt;/li&gt;
+&lt;li&gt;Góð smáatriði og yfirborðsáferð.&lt;/li&gt;
+&lt;li&gt;Stíft og óbeygjanlegt, sem er frábært fyrir festingar.&lt;/li&gt;
+&lt;li&gt;Umhverfisvænt (lífbrjótanlegt).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gallar:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minna hitaþol. Ef kerfið þitt er í heitu umhverfi (eins og bílskúr á sumrin eða í beinu sólarljósi) gæti það afmyndast.&lt;/li&gt;
+&lt;li&gt;Stökkara en PETG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ráðlegging:&lt;/strong&gt; Fyrir flestar uppsetningar innandyra er PLA frábær og hagkvæmur kostur.&lt;/p&gt;
+&lt;h3&gt;PETG (Polyethylene Terephthalate Glycol)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;petg-polyethylene-terephthalate-glycol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#petg-polyethylene-terephthalate-glycol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;PETG er frábær valkostur við PLA og býður upp á meiri endingu og hitaþol.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kostir:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Endingarbetra og minna stökkt en PLA.&lt;/li&gt;
+&lt;li&gt;Meira hitaþol.&lt;/li&gt;
+&lt;li&gt;Gott efnaþol.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gallar:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getur verið erfiðara í prentun, krefst oft hærra hitastigs og nákvæmra inndráttarstillinga (retraction) til að forðast þræði (stringing).&lt;/li&gt;
+&lt;li&gt;Getur verið dýrara en PLA.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ráðlegging:&lt;/strong&gt; Ef pílukerfið þitt er á svæði með miklum hitasveiflum eða ef þú vilt hámarksendingu fyrir íhlutina þína, er PETG betri kosturinn.&lt;/p&gt;
+&lt;h3&gt;Niðurstaða&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;niðurstaða&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ni%c3%b0ursta%c3%b0a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Fyrir byrjendur og venjulega notkun innandyra, &lt;strong&gt;byrjaðu á PLA&lt;/strong&gt;. Ef þú lendir í vandræðum með að íhlutir brotni eða vindi sig vegna hita, eða ef þú ert vanur prentari sem leitar að sterkari lausn, &lt;strong&gt;notaðu PETG&lt;/strong&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

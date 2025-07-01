@@ -1,0 +1,5 @@
+/* Make the navbar logo round */
+.navbar-brand .logo {
+  border-radius: 50%;
+  object-fit: cover; /* Tryggir að myndin fylli svæðið án þess að teygjast */
+}

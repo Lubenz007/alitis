@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>www.alit.is – STL Skrár</title>
+    <link>http://localhost:1313/stl-skrar/</link>
+    <description>Recent content in STL Skrár on www.alit.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2024 14:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/stl-skrar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Plasma myndavélafesting</title>
+      <link>http://localhost:1313/stl-skrar/myndavelafesting/</link>
+      <pubDate>Sun, 01 Sep 2024 14:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/stl-skrar/myndavelafesting/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Plasma myndavélafesting fyrir Autodarts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;plasma-myndavélafesting-fyrir-autodarts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#plasma-myndav%c3%a9lafesting-fyrir-autodarts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Þetta er &amp;ldquo;Plasma&amp;rdquo; festingin, vinsæll valkostur sem er hannaður til að sitja beint á píluborðinu og veitir stöðugt og gott sjónarhorn fyrir myndavélarnar.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://autodarts.diy/3d-printing/images/plasma_assembly_git.png&#34; title=&#34;Fullgerð myndavélafesting&#34; alt=&#34;Mynd af prentaðri myndavélafestingu&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Fullgerð myndavélafesting&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mynd fengin frá &lt;a href=&#34;https://autodarts.diy/3d-printing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opinberu Autodarts DIY síðunni&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Prentunarráðleggingar&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prentunarráðleggingar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#prentunarr%c3%a1%c3%b0leggingar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Efni:&lt;/strong&gt; PLA eða PETG&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagahæð:&lt;/strong&gt; 0.2mm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fylling (Infill):&lt;/strong&gt; 20%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stuðningur (Supports):&lt;/strong&gt; Gæti þurft stuðning fyrir myndavélarhaldarann (Cam Holder), fer eftir prentara.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Niðurhal&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;niðurhal&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ni%c3%b0urhal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Þú getur sótt allar STL skrár fyrir Plasma festinguna á GitHub síðu Autodarts:
+&lt;a href=&#34;https://github.com/autodarts/docs/tree/main/static/3d-printing/stl&#34; title=&#34;Smelltu til að opna GitHub möppuna&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sækja Plasma Mount skrár á GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Frekari upplýsingar&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;frekari-upplýsingar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#frekari-uppl%c3%bdsingar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Fyrir fleiri hönnunarmöguleika og upplýsingar, skoðaðu opinberu Autodarts DIY síðuna:
+&lt;a href=&#34;https://autodarts.diy/3d-printing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;autodarts.diy/3d-printing/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
