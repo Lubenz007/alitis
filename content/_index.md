@@ -18,6 +18,10 @@ Autodarts er frábær frír hugbúnaðar sem gerir þér kleift að spila píluk
 *   **STL skrár:** Skrár sem hægt er að hlaða niður fyrir þrívíddarprentarann þinn.
 *   **Ábendingar og brellur:** Bestu aðferðir við prentun á íhlutunum.
 
+## [Myndir af kláruðum verkefnum](/myndir)
+
+Skoðaðu myndasafn af verkefnum sem ég hef prentað og sett upp.
+
 ## Vantar þig prentun?
 
 Ef þú átt ekki þrívíddarprentara eða vilt einfaldlega fá íhlutina tilbúna get ég prentað þá fyrir þig. Ég nota Bambu Lab P1S prentara sem tryggir mikil gæði og hraða afhendingu. Hafðu samband á [bensi@alit.is](mailto:bensi@alit.is) til að fá frekari upplýsingar.
