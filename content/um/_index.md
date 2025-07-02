@@ -6,6 +6,8 @@ draft = false
 
 
 > {{< callout >}}
-  [CV](https://bensiegils.com/about/) bensi@alit.is
+  - [CV](https://bensiegils.com/about/)
+  - Mail -> bensi@alit.is
+
 {{< /callout >}} 
 
