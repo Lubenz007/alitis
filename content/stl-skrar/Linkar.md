@@ -9,3 +9,9 @@ Hér eru nokkrir vinsælir hlekkir þar sem hægt er að finna STL skrár fyrir 
 
 - **[MakerWorld](https://makerworld.com/en/search/models?keyword=dart+light)**: Vinsæl síða með mikið úrval af ókeypis módelum.
 - **[Cults3D](https://cults3d.com/en/search?q=dartboard+light)**: Önnur góð síða með bæði ókeypis og greidd módel.
+
+Frekar flottar lausnir.
+- **[MakerWorld](https://makerworld.com/en/models/1124401-dartboard-led-light-autodarts?from=recommend#profileId-1147539)**: Án kostnaðar.
+- **[Cults3D](https://cults3d.com/en/3d-model/gadget/steeldart-score-system-wie-autodarts)**: Kostar að fá skrár.
+
+
