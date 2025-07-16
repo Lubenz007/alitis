@@ -11,7 +11,7 @@ Hér eru nokkrir vinsælir hlekkir þar sem hægt er að finna STL skrár fyrir 
 Þessar helstu.
 - **[MakerWorld](https://makerworld.com/en/search/models?keyword=dart+light)**
 - **[Cults3D](https://cults3d.com/en/search?q=dartboard+light)**
-- **[printables](https://cults3d.com/en/search?q=dartboard+light)**
+- **[printables](https://www.printables.com/search/models?ctx=models&q=Autodarts)**
 {{< /callout >}}
 
 {{< callout emoji="🌐" >}}
