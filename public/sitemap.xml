@@ -5,6 +5,12 @@
     <loc>http://localhost:1313/leidbeiningar/velja-prentunarefni/</loc>
     <lastmod>2024-09-01T15:05:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/leidbeiningar/led/</loc>
+    <lastmod>2024-09-01T15:05:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/leidbeiningar/pla-ruthex/</loc>
+    <lastmod>2024-09-01T15:05:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/stl-skrar/linkar/</loc>
     <lastmod>2024-09-01T14:05:00+00:00</lastmod>
   </url><url>
@@ -13,6 +19,12 @@
   </url><url>
     <loc>http://localhost:1313/leidbeiningar/</loc>
     <lastmod>2024-09-01T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/golf/</loc>
+    <lastmod>2024-09-01T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/iot/</loc>
+    <lastmod>2024-09-01T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/stl-skrar/</loc>
     <lastmod>2024-09-01T14:00:00+00:00</lastmod>
@@ -29,8 +41,25 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-31T22:29:39+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/automation/</loc>
+    <lastmod>2024-06-23T00:27:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/automation/</loc>
+    <lastmod>2024-06-23T00:27:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-23T00:27:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/esp32/</loc>
+    <lastmod>2024-06-23T00:27:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/golf/2024-06-23-gspro-controlbox/</loc>
+    <lastmod>2024-06-23T00:27:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-23T00:27:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/iot/2023-04-04-hottub/</loc>
+    <lastmod>2023-04-04T22:15:00+00:00</lastmod>
   </url>
 </urlset>

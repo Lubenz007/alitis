@@ -14,15 +14,21 @@ menu:
     - name: Leiðbeiningar
       pageRef: /leidbeiningar
       weight: 2
+    - name: Golfhermir
+      pageRef: /golf
+      weight: 3
+    - name: IOT
+      pageRef: /iot
+      weight: 4
     - name: Um mig
       pageRef: /um
-      weight: 4
-    - name: Search
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/Lubenz007"
       params:
         icon: github

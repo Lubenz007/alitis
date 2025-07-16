@@ -1,12 +1,12 @@
 +++
-title = 'Þrívíddarprentun fyrir Autodarts'
+title = 'Þrívíddarprentun'
 date = 2024-08-31T22:29:39Z
 draft = false
 +++
 
 # Velkomin á alit.is
 
-Þessi síða er tileinkuð þrívíddarprentun fyrir [autodarts.io](https://autodarts.io) verkefnið. Hér finnur þú upplýsingar, leiðbeiningar og skrár til að prenta allt sem þú þarft til að byggja þitt eigið Autodarts kerfi.
+Þessi síða er tileinkuð þrívíddarprentun -> [autodarts.io](https://autodarts.io) og annað sem ég tek mér fyrir hendur. Hér finnur þú upplýsingar, leiðbeiningar og skrár til að prenta allt sem ég hef notað.
 
 ## Hvað er Autodarts?
 
