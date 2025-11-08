@@ -11,9 +11,26 @@ menu:
     - name: STL Skrár
       pageRef: /stl-skrar
       weight: 1
+      children:
+        - name: Linkar
+          pageRef: /stl-skrar/linkar
+          weight: 1
+        - name: Myndavelafesting
+          pageRef: /stl-skrar/myndavelafesting
+          weight: 2
     - name: Leiðbeiningar
       pageRef: /leidbeiningar
       weight: 2
+      children:
+        - name: Led
+          pageRef: /leidbeiningar/Led
+          weight: 1
+        - name: Pla-Ruthex
+          pageRef: /leidbeiningar/pla-ruthex
+          weight: 2
+        - name: Velja Prentunarefni
+          pageRef: /leidbeiningar/velja-prentunarefni
+          weight: 3
     - name: Golfhermir
       pageRef: /golf
       weight: 3
